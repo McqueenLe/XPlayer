@@ -81,51 +81,37 @@ public class SocketService extends Service{
 					sendNotify(SocketService.this, title, msgContent, null);
 					LogUtil.i(TAG, "@@@@@ on socket message @@@@@ " + msgContent);
 				}
+			}).on(Socket.EVENT_CONNECT, new Listener() { // 连接回调
+
+				@Override
+				public void call(Object... arg0) {
+					LogUtil.i(TAG, "@@@@@ on socket connect @@@@@");
+				}
+			}).on(Socket.EVENT_CONNECT_ERROR, new Listener() { // 连接错误回调
+
+				@Override
+				public void call(Object... arg0) {
+					LogUtil.i(TAG, "@@@@@ on socket connect error @@@@@");
+				}
+			}).on(Socket.EVENT_CONNECT_TIMEOUT, new Listener() { // 连接超时回调
+
+				@Override
+				public void call(Object... arg0) {
+					LogUtil.i(TAG, "@@@@@ on socket connect timeout @@@@@");
+				}
+			}).on(Socket.EVENT_DISCONNECT, new Listener() { // 断开连接回调
+
+				@Override
+				public void call(Object... arg0) {
+					LogUtil.i(TAG, "@@@@@ on socket disconnect @@@@@");
+				}
+			}).on(Socket.EVENT_RECONNECT, new Listener() { // 重新连接回调
+
+				@Override
+				public void call(Object... arg0) {
+					LogUtil.i(TAG, "@@@@@ on socket reconnect @@@@@");
+				}
 			});
-//			mSocket.on("message", new Listener() { // 接收消息
-//
-//				@Override
-//				public void call(Object... arg0) {
-//					// 握手
-//					Ack ack = (Ack) arg0[arg0.length - 1];
-//					ack.call();
-//					String msgId = arg0[0].toString(); // 消息id
-//					String title = arg0[1].toString(); // 消息标题
-//					String msgContent = arg0[2].toString(); // 消息内容
-//					sendNotify(SocketService.this, title, msgContent, null);
-//					LogUtil.i(TAG, "@@@@@ on socket message @@@@@ " + msgContent);
-//				}
-//			}).on(Socket.EVENT_CONNECT, new Listener() { // 连接回调
-//
-//				@Override
-//				public void call(Object... arg0) {
-//					LogUtil.i(TAG, "@@@@@ on socket connect @@@@@");
-//				}
-//			}).on(Socket.EVENT_CONNECT_ERROR, new Listener() { // 连接错误回调
-//
-//				@Override
-//				public void call(Object... arg0) {
-//					LogUtil.i(TAG, "@@@@@ on socket connect error @@@@@");
-//				}
-//			}).on(Socket.EVENT_CONNECT_TIMEOUT, new Listener() { // 连接超时回调
-//
-//				@Override
-//				public void call(Object... arg0) {
-//					LogUtil.i(TAG, "@@@@@ on socket connect timeout @@@@@");
-//				}
-//			}).on(Socket.EVENT_DISCONNECT, new Listener() { // 断开连接回调
-//
-//				@Override
-//				public void call(Object... arg0) {
-//					LogUtil.i(TAG, "@@@@@ on socket disconnect @@@@@");
-//				}
-//			}).on(Socket.EVENT_RECONNECT, new Listener() { // 重新连接回调
-//
-//				@Override
-//				public void call(Object... arg0) {
-//					LogUtil.i(TAG, "@@@@@ on socket reconnect @@@@@");
-//				}
-//			});
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
