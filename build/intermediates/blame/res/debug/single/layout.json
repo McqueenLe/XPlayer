@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\menu_background_fragment.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\menu_background_fragment.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\frame_main.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\frame_main.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\albumbroswer.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\albumbroswer.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\layout_video_bottom.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\layout_video_bottom.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_list.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\item_video_list.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\music_list_broswer.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\music_list_broswer.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\music_search.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\music_search.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\searchlist_item.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\searchlist_item.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\folderbroswer_listitem.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\folderbroswer_listitem.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_trans_layout.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\viewpager_trans_layout.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar_layout.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\titlebar_layout.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\menu_setting.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\menu_setting.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\nested_fragment.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\nested_fragment.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\frame_main1.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\frame_main1.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\artistbroswer.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\artistbroswer.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\menu_scan.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\menu_scan.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\frame_menu.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\frame_menu.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\menu_background.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\menu_background.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\folderbroswer.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\folderbroswer.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\nowplaying.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\nowplaying.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\t9_keyboard.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\t9_keyboard.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\lrc_dialog.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\lrc_dialog.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\albumbroswer_listitem.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\albumbroswer_listitem.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\lyric_line.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\lyric_line.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\playqueue.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\playqueue.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\main_gridview_item.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\main_gridview_item.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\frame_favorite.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\frame_favorite.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_play.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\activity_video_play.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\artistbroswer_listitem.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\artistbroswer_listitem.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_handle.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\sliding_handle.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\menu_setting_fragment.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\menu_setting_fragment.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_list.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\activity_video_list.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\frame_menu1.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\frame_menu1.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_content.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\sliding_content.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\musiclist_item.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\musiclist_item.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\menu_scan_fragment.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\menu_scan_fragment.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\sleep_time.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\sleep_time.xml"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\background_gridview_item.xml",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\layout\\background_gridview_item.xml"
+    }
+]

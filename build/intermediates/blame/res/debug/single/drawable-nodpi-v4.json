@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\img_scan_logo.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-nodpi\\img_scan_logo.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\dialog_img_background.jpg",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-nodpi\\dialog_img_background.jpg"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\sliding_menu_line.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-nodpi\\sliding_menu_line.png"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_wifi_connecting.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\btn_wifi_connecting.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\white_halo.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\white_halo.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scrubber_control_normal_holo.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\drawable-xhdpi-v4\\scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scrubber_secondary_holo.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\drawable-xhdpi-v4\\scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scrubber_primary_holo.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\drawable-xhdpi-v4\\scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scrubber_control_focused_holo.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\drawable-xhdpi-v4\\scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_wifi_off_pressed.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\btn_wifi_off_pressed.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nav_btn_back_unsel.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\nav_btn_back_unsel.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediacontroller_play.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\drawable-xhdpi-v4\\mediacontroller_play.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scrubber_control_pressed_holo.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\drawable-xhdpi-v4\\scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_wifi_off.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\btn_wifi_off.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nav_btn_back_sel.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\nav_btn_back_sel.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mediacontroller_pause.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\drawable-xhdpi-v4\\mediacontroller_pause.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scrubber_control_disabled_holo.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\drawable-xhdpi-v4\\scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scrubber_track_holo_dark.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\drawable-xhdpi-v4\\scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\green_halo.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\green_halo.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\circle.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\circle.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_checked_true.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\icon_checked_true.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_wifi_closing.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\btn_wifi_closing.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_checked_false.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\icon_checked_false.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_wifi_on.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\btn_wifi_on.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\video_default_list.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-xhdpi\\video_default_list.png"
+    }
+]

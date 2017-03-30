@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:titlebar="http://schemas.android.com/apk/res/com.ldw.music"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dialog_frm_background"
+    android:orientation="vertical" >
+
+    <!-- 
+    <RelativeLayout android:id="@+id/topLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        android:background="@color/holo_blue_light"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/backBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerVertical="true"
+            android:background="@drawable/selector_music_btn"
+            android:padding="10dip"
+            android:src="@drawable/icon_back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="扫描歌曲"
+            android:textColor="@color/white"
+            android:textSize="@dimen/title_text_sp" />
+    </RelativeLayout> -->
+
+    <com.xy.music.view.TitleBar
+        android:id="@+id/titlebar_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_below="@id/topLayout"
+        android:layout_marginTop="70dip"
+        android:src="@drawable/img_scan_logo" />
+
+    <!-- 
+    <Button
+        android:id="@+id/scanBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/selector_scan_btn"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="70dip"
+        android:text="开始扫描"
+        android:textSize="22sp"
+        android:textColor="@color/white" /> -->
+        
+        <FrameLayout
+            android:id="@+id/flFreeOnOff_fragment_wifi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" >
+
+            <ImageView
+                android:id="@+id/ivGreenHalo_fragment_wifi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/green_halo" />
+
+            <ImageView
+                android:id="@+id/ivGreenHalo2_fragment_wifi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/green_halo" />
+
+            <ImageView
+                android:id="@+id/ivWhiteHalo_fragment_wifi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/white_halo" />
+
+            <ImageButton
+                android:id="@+id/btnFreeOnOff_fragment_wifi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@null"
+                android:src="@drawable/btn_wifi_off_selector" />
+
+            <ImageView
+                android:id="@+id/ivCircle_fragment_wifi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/circle"
+                android:visibility="invisible" />
+        </FrameLayout>
+
+</RelativeLayout>

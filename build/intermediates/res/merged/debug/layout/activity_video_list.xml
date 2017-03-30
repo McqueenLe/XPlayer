@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.xy.music"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <com.xy.music.view.TitleBar
+        android:id="@+id/activity_video_list_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:showLeftIcon="true"/>
+    
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        
+		<ListView
+		    android:id="@+id/listview_video_list"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:divider="@color/line"
+		    android:dividerHeight="1px"/>
+		
+		
+	</FrameLayout>
+</LinearLayout>

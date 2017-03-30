@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\album_border_large.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\album_border_large.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_login_panel_background.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\top_login_panel_background.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_preferences_dark.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_preferences_dark.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_bkg_common_normal.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_bkg_common_normal.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_local_music.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_local_music.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_hide_pressed.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_hide_pressed.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playback_seekbar_thumb_pressed.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\playback_seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_splash_background.jpg",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\image_splash_background.jpg"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_pause_normal.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_pause_normal.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_album_background.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\img_album_background.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_edit_2.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_edit_2.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sleep_button_pressed.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\sleep_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_play.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\player_play.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_backspace_normal.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_backspace_normal.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_img_item_background_selected.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\skin_img_item_background_selected.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_playing_mode_shuffle.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_playing_mode_shuffle.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nc_previoussong_pressed.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\nc_previoussong_pressed.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_change_background.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_change_background.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_switch.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_switch.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_search_dark.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_search_dark.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sleep_button.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\sleep_button.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nc_previoussong_normal.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\nc_previoussong_normal.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_sleep_mode.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_sleep_mode.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicelayout_left_bg_f.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\voicelayout_left_bg_f.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_favourite_normal.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_favourite_normal.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toggle_button_on.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\toggle_button_on.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_point.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_menu_point.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_favorite_on.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_favorite_on.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\exploded-aar\\eclipseWorkspace\\InitActivity\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progresslayout_bg.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\progresslayout_bg.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toggle_button_off.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\toggle_button_off.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_backspace_pressed.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_backspace_pressed.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_sequence.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_sequence.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_img_item_background_normal.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\skin_img_item_background_normal.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_num_bg.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\video_num_bg.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_edit_7.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_edit_7.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_favorites.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_favorites.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_artist_plus.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_artist_plus.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_playing_mode_repeat_all.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_playing_mode_repeat_all.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playcontrol_bg.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\playcontrol_bg.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_search.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_finish_btn_bg_normal.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\scan_finish_btn_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_edit_4.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_edit_4.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_background_top.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_background_top.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_bg.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\sliding_bg.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\volume_sound.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\volume_sound.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_favorite.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_favorite.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_hide_normal.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_hide_normal.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_edit_9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_edit_9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_favourite_checked.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_favourite_checked.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_playing_mode_repeat_cur.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_playing_mode_repeat_cur.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nc_nextsong_normal.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\nc_nextsong_normal.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nc_nextsong_pressed.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\nc_nextsong_pressed.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_edit_5.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_edit_5.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\volume_seekbar_thumb_pressed.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\volume_seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_list_reapeat.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_list_reapeat.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_play_state.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\list_play_state.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_num_front.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\video_num_front.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nc_pause_normal.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\nc_pause_normal.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_bkg_common_pressed.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_bkg_common_pressed.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nc_pause_pressed.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\nc_pause_pressed.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_video.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_video.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_edit_8.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_edit_8.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_single_repeat.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_single_repeat.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_flaying_favorite.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_flaying_favorite.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_next_normal.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_next_normal.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_ico_checked.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\skin_ico_checked.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shuffle.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_shuffle.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_brightness_bg.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\video_brightness_bg.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_items.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_items.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\volume_mute.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\volume_mute.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_folder_plus.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_folder_plus.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_edit_6.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_edit_6.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_playing_mode_normal.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_playing_mode_normal.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_back.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_edit_3.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_edit_3.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_exit.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_exit.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicelayout_left_bg_normal.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\voicelayout_left_bg_normal.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_switch_9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\keyboard_switch_9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_play_normal.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_play_normal.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playback_seekbar_thumb_default.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\playback_seekbar_thumb_default.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_pause_state.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\list_pause_state.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_right.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\volume_seekbar_thumb_default.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\volume_seekbar_thumb_default.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_next.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\player_next.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_finish_btn_bg_pressed.9.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\scan_finish_btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_volumn_bg.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\video_volumn_bg.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_pre.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\player_pre.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_pause.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\player_pause.png"
+    },
+    {
+        "merged": "D:\\eclipseWorkspace\\XPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_album_plus.png",
+        "source": "D:\\eclipseWorkspace\\XPlayer\\res\\drawable-hdpi\\icon_album_plus.png"
+    }
+]
